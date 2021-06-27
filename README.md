@@ -13,4 +13,4 @@ Maison "normale" | Maison-bateau
 ------------ | -------------
 129 095 863 | 47 864 990
 
-Dans cette maison bateau vivait un homme et son *chien*. 
+Dans cette maison bateau vivait un homme et son *chien*.
